@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C6538D</color>
+    <color name="colorPrimaryDark">#C6538D</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="purple_trans">#66872C76</color>
+    <color name="yellow">#FFF895</color>
+    <color name="txt_hint">#33FFFFFF</color>
+</resources>
